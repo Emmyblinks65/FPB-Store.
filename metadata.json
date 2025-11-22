@@ -1,0 +1,5 @@
+{
+  "name": "FPB Store",
+  "description": "Jarvis powered bookstore with a secure admin panel. Provides book recommendations and simulates an e-commerce experience with live purchase notifications.",
+  "requestFramePermissions": []
+}
